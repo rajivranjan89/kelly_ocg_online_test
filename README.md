@@ -6,6 +6,10 @@ A 3-tier architecture is a type of software architecture which is composed of th
 They are often used in applications as a specific type of client-server system. 3-tier architectures provide many benefits for production and development environments by modularizing the user interface, business logic, and data storage layers.
 Doing so gives greater flexibility to development teams by allowing them to update a specific part of an application independently of the other parts.
 
+
+![image](https://user-images.githubusercontent.com/51155706/131279493-08c5ba67-7f6d-4242-9f44-b9a3bc65347d.png)
+
+
     Presentation Tier-
     
     The presentation tier is the front end layer in the 3-tier system and consists of the user interface. 
